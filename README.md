@@ -27,5 +27,5 @@ The WhatsApp UI clone provides the following features:
 The app uses the following Flutter packages:
 1. **flutter/material:** The core Flutter framework for building user interfaces.
 
-#Credit
-HAfiz Saffiullah
+# Credit
+1. HAfiz Saffiullah
